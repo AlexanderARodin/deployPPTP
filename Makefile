@@ -5,3 +5,5 @@ help:
 aptupgrade:
 	@apt update && apt upgrade
 
+pre-install:
+	@apt install -y tmux zsh mc tree
