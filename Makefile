@@ -2,6 +2,6 @@
 help:
 	@echo 'there is no tips (yet)'
 
-update-upgrade:
+aptupgrade:
 	@apt update && apt upgrade
 
