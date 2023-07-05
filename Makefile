@@ -1,4 +1,4 @@
 
 help:
-  @echo 'there is no tips (yet)'
+  @echo "there is no tips (yet)"
 
